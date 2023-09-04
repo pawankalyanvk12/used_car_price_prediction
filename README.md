@@ -26,7 +26,7 @@ Dataset Source Link :
 https://www.kaggle.com/datasets/manishkr1754/cardekho-used-car-data
 
 # Screenshot of UI
-![HomepageUI](./Screenshots/Homepageui.jpg)
+![HomepageUI](./Screenshots/HomepageUI.jpg)
 
 
 # Approach for the project 
